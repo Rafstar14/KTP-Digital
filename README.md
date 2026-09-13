@@ -1,8 +1,6 @@
 # KTP Digital
 
-Program konsol C++ sederhana untuk mencatat, menampilkan, mencari, dan menghapus data KTP digital. Proyek ini dibuat sebagai latihan pengelolaan data dengan menu interaktif di terminal.
-
-> **Penting:** proyek ini hanya untuk pembelajaran. Jangan gunakan atau unggah data KTP asli, NIK asli, maupun data pribadi lainnya.
+Program konsol C++ sederhana untuk mencatat, menampilkan, mencari, dan menghapus data. Proyek ini dibuat sebagai latihan bahasa C++ dengan pengelolaan data interaktif di terminal.
 
 ## Fitur
 
@@ -38,16 +36,11 @@ Program konsol C++ sederhana untuk mencatat, menampilkan, mencari, dan menghapus
    ```bash
    .\ktp-digital.exe
    ```
-
+4. Atau kalian bisa copy file "hello.cpp" lalu tempelkan di vs code tanpa perlu pusing atur atur 
+   
 ## Penyimpanan data
 
 Data yang dimasukkan program disimpan secara lokal pada `data_ktp.txt`. File tersebut sengaja tercantum dalam `.gitignore`, sehingga tidak ikut diunggah ke GitHub.
-
-Untuk menjaga privasi:
-
-- Gunakan data fiktif saat mencoba program.
-- Jangan menambahkan `data_ktp.txt` ke Git.
-- Hapus data lokal setelah selesai bila perangkat digunakan bersama.
 
 ## Struktur file
 
