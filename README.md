@@ -36,7 +36,7 @@ Program konsol C++ sederhana untuk mencatat, menampilkan, mencari, dan menghapus
    ```bash
    .\ktp-digital.exe
    ```
-4. Atau kalian bisa copy file "hello.cpp" lalu tempelkan di vs code tanpa perlu pusing atur atur 
+4. Atau kalian bisa copy file "hello.cpp" lalu tempelkan di vs code yang sudah kompilasi dengan program utama
    
 ## Penyimpanan data
 
